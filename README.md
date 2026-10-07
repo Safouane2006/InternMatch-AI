@@ -1,5 +1,9 @@
 # InternMatch AI
 
+## Live Demo
+
+🚀 Try the application here: [InternMatch AI](https://internmatch-ai-ckip2htflfecf6pqp7tyyq.streamlit.app/)
+
 InternMatch AI is a job recommendation system that matches a student's profile with job opportunities using Natural Language Processing.
 
 ## Project goal
